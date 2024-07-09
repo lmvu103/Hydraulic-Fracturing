@@ -1,2 +1,1 @@
-# Hydraulic-Fracturing
-Predict fracture length by Machine Learning
+# Machine-Learning-for-Prediction-in-Hydraulic-Fracturing
